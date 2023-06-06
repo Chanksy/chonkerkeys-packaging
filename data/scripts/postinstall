@@ -1,0 +1,6 @@
+#!/bin/sh
+
+osascript -e 'quit app "ChonkerKeys"'
+open "/Applications/ChonkerKeys.app/"
+
+exit 0
